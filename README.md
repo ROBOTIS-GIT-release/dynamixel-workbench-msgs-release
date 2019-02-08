@@ -1,3 +1,26 @@
+## dynamixel-workbench-msgs (kinetic) - 2.0.0-0
+
+The packages in the `dynamixel-workbench-msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release dynamixel-workbench-msgs -t kinetic -r kinetic --edit` on `Fri, 08 Feb 2019 04:08:03 -0000`
+
+The `dynamixel_workbench_msgs` package was released.
+
+Version of package(s) in repository `dynamixel-workbench-msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
+- release repository: https://github.com/ROBOTIS-GIT-release/dynamixel-workbench-msgs-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-0`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## dynamixel-workbench-msgs (melodic) - 2.0.0-0
 
 The packages in the `dynamixel-workbench-msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release dynamixel-workbench-msgs -t melodic -r melodic --edit` on `Fri, 04 Jan 2019 02:32:15 -0000`
