@@ -1,0 +1,12 @@
+Source: ros-melodic-dynamixel-workbench-msgs
+Section: misc
+Priority: extra
+Maintainer: Will Son <willson@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/dynamixel_workbench_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-dynamixel-workbench-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: This package includes ROS messages and services for dynamixel_workbench packages
