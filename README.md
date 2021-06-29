@@ -1,3 +1,26 @@
+## dynamixel-workbench-msgs (noetic) - 2.0.2-1
+
+The packages in the `dynamixel-workbench-msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dynamixel-workbench-msgs -t noetic -r noetic --edit` on `Tue, 29 Jun 2021 07:18:04 -0000`
+
+The `dynamixel_workbench_msgs` package was released.
+
+Version of package(s) in repository `dynamixel-workbench-msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel-workbench-msgs (melodic) - 2.0.1-0
 
 The packages in the `dynamixel-workbench-msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release dynamixel-workbench-msgs -t melodic -r melodic --edit` on `Sun, 27 Sep 2020 08:32:32 -0000`
